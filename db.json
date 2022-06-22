@@ -1,0 +1,46 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "name": "Marius",
+      "message": "yoooo so good!!",
+      "filmId": "2baf70d1-42bb-4437-b551-e5fed5a87abe"
+    },
+    {
+      "id": 2,
+      "name": "Marius",
+      "message": "some comment",
+      "filmId": "2baf70d1-42bb-4437-b551-e5fed5a87abe"
+    },
+    {
+      "name": "Mario",
+      "message": "Hello!!",
+      "filmId": "58611129-2dbc-4a81-a72f-77ddfc1b1b49",
+      "id": 3
+    },
+    {
+      "name": "Mario",
+      "message": "I luv it!",
+      "filmId": "58611129-2dbc-4a81-a72f-77ddfc1b1b49",
+      "id": 4
+    },
+    {
+      "name": "Maria",
+      "message": "I LOOOVE EEET!!!",
+      "filmId": "58611129-2dbc-4a81-a72f-77ddfc1b1b49",
+      "id": 5
+    },
+    {
+      "name": "Klaus",
+      "message": "First!!",
+      "filmId": "58611129-2dbc-4a81-a72f-77ddfc1b1b49",
+      "id": 6
+    },
+    {
+      "name": "Mylo",
+      "message": "First",
+      "filmId": "cd3d059c-09f4-4ff3-8d63-bc765a5184fa",
+      "id": 7
+    }
+  ]
+}
